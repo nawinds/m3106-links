@@ -1,6 +1,5 @@
 User-agent: *
 Disallow: /docs
-Disallow: /maths
 Disallow: /deadlines-editing-instructions
 Disallow: /deadlines-block
 Disallow: /lgd.pdf
